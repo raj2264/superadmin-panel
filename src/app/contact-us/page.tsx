@@ -45,16 +45,16 @@ export default function ContactUs() {
                   <div>
                     <dt className="font-medium text-gray-700">Email:</dt>
                     <dd>
-                      <a href="mailto:billing@mysocietydetails.com" className="text-blue-600 hover:underline">
-                        billing@mysocietydetails.com
+                      <a href="mailto:mysocietydetails7@gmail.com" className="text-blue-600 hover:underline">
+                        mysocietydetails7@gmail.com
                       </a>
                     </dd>
                   </div>
                   <div>
                     <dt className="font-medium text-gray-700">Payment Issues:</dt>
                     <dd>
-                      <a href="mailto:refunds@mysocietydetails.com" className="text-blue-600 hover:underline">
-                        refunds@mysocietydetails.com
+                      <a href="mailto:mysocietydetails7@gmail.com" className="text-blue-600 hover:underline">
+                        mysocietydetails7@gmail.com
                       </a>
                     </dd>
                   </div>
@@ -99,16 +99,16 @@ export default function ContactUs() {
                   <div>
                     <dt className="font-medium text-gray-700">Email:</dt>
                     <dd>
-                      <a href="mailto:legal@mysocietydetails.com" className="text-blue-600 hover:underline">
-                        legal@mysocietydetails.com
+                      <a href="mailto:mysocietydetails7@gmail.com" className="text-blue-600 hover:underline">
+                        mysocietydetails7@gmail.com
                       </a>
                     </dd>
                   </div>
                   <div>
                     <dt className="font-medium text-gray-700">Privacy:</dt>
                     <dd>
-                      <a href="mailto:privacy@mysocietydetails.com" className="text-blue-600 hover:underline">
-                        privacy@mysocietydetails.com
+                      <a href="mailto:mysocietydetails7@gmail.com" className="text-blue-600 hover:underline">
+                        mysocietydetails7@gmail.com
                       </a>
                     </dd>
                   </div>
@@ -129,6 +129,7 @@ export default function ContactUs() {
             </div>
             <p className="text-gray-700 mt-4">
               For quickest response, email us first. Phone support is available for emergencies. Most issues resolved within 24 hours.
+            </p>
           </section>
 
           <section>
@@ -159,7 +160,7 @@ export default function ContactUs() {
                   How do I request a refund?
                 </summary>
                 <p className="text-gray-700 mt-3">
-                  Please email refunds@mysocietydetails.com with your transaction ID and reason for the refund. 
+                  Please email mysocietydetails7@gmail.com with your transaction ID and reason for the refund. 
                   See our Cancellation and Refunds Policy for more details on eligibility.
                 </p>
               </details>
