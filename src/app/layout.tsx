@@ -5,6 +5,7 @@ import { ThemeProvider } from "../providers/theme-provider";
 import { ReactQueryProvider } from "../providers/react-query-provider";
 import { Toaster } from "@/components/ui/toaster"
 import { Toaster as SonnerToaster } from 'sonner';
+import { Analytics } from '@vercel/analytics/next';
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -36,6 +37,7 @@ export default function RootLayout({
             <SonnerToaster richColors position="top-right" />
           </ReactQueryProvider>
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
