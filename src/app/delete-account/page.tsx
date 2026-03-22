@@ -10,8 +10,8 @@ export default function DeleteAccountPage() {
             <ul className="list-disc list-inside space-y-2">
               <li>
                 Send an email to:{' '}
-                <a href="mailto:support@mysocietydetails.com" className="text-blue-600 hover:underline">
-                  support@mysocietydetails.com
+                <a href="mailto:mysocietydetails7@gmail.com" className="text-blue-600 hover:underline">
+                  mysocietydetails7@gmail.com
                 </a>
               </li>
               <li>Use subject: "Delete My Account"</li>
