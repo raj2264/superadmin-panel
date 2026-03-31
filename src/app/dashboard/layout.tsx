@@ -70,6 +70,12 @@ const navSections: { label: string; items: NavItem[] }[] = [
     label: "Documents",
     items: [{ title: "Essential Documents", href: "/dashboard/documents", icon: FileArchive }],
   },
+  {
+    label: "Settings",
+    items: [
+      { title: "About Us", href: "/dashboard/about", icon: Shield },
+    ],
+  },
 ];
 
 // Prefetchable link — triggers Next.js prefetch on hover for instant nav
